@@ -1,0 +1,26 @@
+[
+  {
+    "Field": "student_id",
+    "Type": "int",
+    "Null": "NO",
+    "Key": "PRI",
+    "Default": "",
+    "Extra": ""
+  },
+  {
+    "Field": "name",
+    "Type": "varbinary(30)",
+    "Null": "YES",
+    "Key": "",
+    "Default": "",
+    "Extra": ""
+  },
+  {
+    "Field": "major",
+    "Type": "varchar(20)",
+    "Null": "YES",
+    "Key": "",
+    "Default": "",
+    "Extra": ""
+  }
+]
